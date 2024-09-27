@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define your RPC URL
-RPC_URL="your_rpc_url_here"
+RPC_URL="https://mainnet.helius-rpc.com/?api-key=c2c2d31f-38d2-46f8-9f05-096cfc25f8ab"
 
 while true; do
     # Claim rewards
